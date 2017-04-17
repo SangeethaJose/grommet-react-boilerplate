@@ -173,7 +173,8 @@
       "express",
       "ip",
       "minimist",
-      "sanitize.css"
+      "sanitize.css",
+      "grommet"
     ],
     "include": [
       "core-js",

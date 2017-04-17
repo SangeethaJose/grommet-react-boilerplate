@@ -97,6 +97,7 @@ module.exports = (options) => ({
   resolve: {
     modules: ['app', 'node_modules'],
     extensions: [
+      '.json',
       '.js',
       '.jsx',
       '.react.js',
